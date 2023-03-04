@@ -1,7 +1,7 @@
 {
     "AWSEBDockerrunVersion": "1",
     "Image": {
-      "Name": "caesarwongw/streamlit-docker1:1",
+      "Name": "caesarwongw/streamlit-docker1:techniator-1",
       "Update": "true"
     },
     "Ports": [
